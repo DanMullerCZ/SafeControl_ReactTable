@@ -1,0 +1,32 @@
+.container {
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+.table-container {
+  width: 550px;
+  margin-top: 15px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  overflow: auto;
+  height: calc(100vh - 100px);
+}
+
+.main-table {
+  width: 100%;
+}
+
+.clicked-rows{
+  display: inline;
+}
+
+.red{
+  background-color: red;
+}
+
+.green{
+  background-color: green;
+}
+
+.blue{
+  background-color: rgb(80, 80, 242);
+}
